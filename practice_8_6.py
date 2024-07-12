@@ -22,6 +22,7 @@ print(album)
 album = make_album('徐佳莹', '《寻人启事》')
 print(album)
 
+#8.8
 while True:
     singer = input("请输入歌手名字：(输入'q'退出)")
     if singer == 'q':
